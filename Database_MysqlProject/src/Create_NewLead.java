@@ -26,7 +26,7 @@ public class Create_NewLead {
 	  String driverjdbc = "com.mysql.jdbc.Driver";
 	  String userName = "root"; 
 	  String password = "sql123";  
-	  String qk="123";
+	  String qk="1233";
 	 //commit thid
 	 
 	

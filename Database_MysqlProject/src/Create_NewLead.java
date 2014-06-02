@@ -27,6 +27,7 @@ public class Create_NewLead {
 	  String userName = "root"; 
 	  String password = "sql123";  
 	  String qk="12345";
+	  String qk1="12345";
 	 //commit thid
 	 
 	
